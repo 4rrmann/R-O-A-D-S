@@ -26,7 +26,7 @@ Traffic Cameras → Vehicle Detection → Traffic Feature Extraction → Priorit
 
 ---
 
-# ⚙️ Core Components
+# Core Components
 
 ## 1. Computer Vision Layer
 
@@ -110,7 +110,7 @@ Contribution: **23%**
 
 ---
 
-# ⏱️ Green Time Calculation
+# Green Time Calculation
 
 The system calculates the green signal duration based on queue length and lane count.
 
@@ -194,3 +194,4 @@ This project demonstrates a **feasible and scalable AI-driven traffic management
 * Improve road safety
 * Enable faster emergency response
 * Support smart city infrastructure
+
