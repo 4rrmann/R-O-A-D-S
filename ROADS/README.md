@@ -13,6 +13,12 @@ The goal is to reduce congestion, improve traffic safety, and allow emergency ve
 
 ---
 
+# UI
+
+<img width="977" height="525" alt="image" src="https://github.com/user-attachments/assets/2c03467d-3334-41c4-bb54-0dbe39b1ddb2" />
+
+---
+
 # System Workflow
 
 Traffic Cameras → Vehicle Detection → Traffic Feature Extraction → Priority Decision Engine → Green Time Calculation → Traffic Signal Control
@@ -194,4 +200,5 @@ This project demonstrates a **feasible and scalable AI-driven traffic management
 * Improve road safety
 * Enable faster emergency response
 * Support smart city infrastructure
+
 
